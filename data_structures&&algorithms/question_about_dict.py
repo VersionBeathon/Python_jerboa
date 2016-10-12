@@ -3,14 +3,15 @@
 from collections import defaultdict
 from collections import OrderedDict
 import json
+
 d = {
-    'a' : [1, 2, 3],
-    'b' : [4, 5]
+    'a': [1, 2, 3],
+    'b': [4, 5]
 }
 
 e = {
-    'a' : {1, 2, 3},
-    'b' : {4, 5}
+    'a': {1, 2, 3},
+    'b': {4, 5}
 }
 print(d)
 print(e)

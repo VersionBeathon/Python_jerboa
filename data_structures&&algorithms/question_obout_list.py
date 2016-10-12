@@ -1,5 +1,4 @@
 # _*_ coding:utf-8 _*_
-#!/usr/bin/env python3
 # 骚的不行的数据处理方式
 import heapq
 p = (4, 5)

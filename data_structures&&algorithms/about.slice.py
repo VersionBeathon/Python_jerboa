@@ -11,7 +11,7 @@ print(a.stop)
 print(a.step)
 
 s = 'HelloWorldmadzz'
-a.indices(len(s))
+print(a.indices(len(s)))
 print(a.start)
 print(a.stop)
 print(a.step)
